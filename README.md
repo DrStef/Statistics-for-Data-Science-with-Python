@@ -17,33 +17,33 @@ The following describes the dataset variables:  <br>
 $$
 \begin{array}{|c|c|}
 \hline
-\textbf{Code} & \textbf{Features}  \\ 
+\small\textbf{Code} & \small\textbf{Features}  \\ 
 \hline
-\text{CRIM} & \text{per capita crime rate by town}  \\
+\small\text{CRIM} & \small\text{per capita crime rate by town}  \\
 \hline
-\text{ZN} & \text{proportion of residential land zoned for lots over 25,000 sq.ft}  \\
+\small\text{ZN} & \small\text{proportion of residential land zoned for lots over 25,000 sq.ft}  \\
 \hline
-\text{INDUS} & \text{proportion of non-retail business acres per town.}  \\
+\small\text{INDUS} & \small\text{proportion of non-retail business acres per town.}  \\
 \hline
-\text{CHAS} & \text{Charles River dummy variable (1 if tract bounds river; 0 otherwise)}  \\
+\small\text{CHAS} & \small\text{Charles River dummy variable (1 if tract bounds river; 0 otherwise)}  \\
 \hline
-\text{NOX} & \text{nitric oxides concentration (parts per 10 million)}  \\
+\small\text{NOX} & \small\text{nitric oxides concentration (parts per 10 million)}  \\
 \hline
-\text{RM} & \text{average number of rooms per dwelling}  \\   
+\small\text{RM} & \small\text{average number of rooms per dwelling}  \\   
 \hline
-\text{AGE} & \text{proportion of owner-occupied units built prior to 1940}  \\   
+\small\text{AGE} &\small\text{proportion of owner-occupied units built prior to 1940}  \\   
 \hline
-\text{DIS} & \text{weighted distances to five Boston employment centres}  \\  
+\small\text{DIS} & \small\text{weighted distances to five Boston employment centres}  \\  
 \hline
-\text{RAD} & \text{index of accessibility to radial highways}  \\  
+\small\text{RAD} & \small\text{index of accessibility to radial highways}  \\  
 \hline
-\text{TAX} & \text{full-value property-tax rate per \\$10,000}  \\ 
+\small\text{TAX} & \small\text{full-value property-tax rate per \\$10,000}  \\ 
 \hline
-\text{PTRATIO} & \text{pupil-teacher ratio by town}  \\
+\small\text{PTRATIO} & \small\text{pupil-teacher ratio by town}  \\
 \hline
-\text{LSTAT} & \text{\\% lower status of the population}  \\
+\small\text{LSTAT} & \small\text{\\% lower status of the population}  \\
 \hline
-\text{MEDV} & \text{Median value of owner-occupied homes in \\$1000's}  \\    
+\small\text{MEDV} & \small\text{Median value of owner-occupied homes in \\$1000's}  \\    
 \hline 
 \end{array}
 $$
