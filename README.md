@@ -8,10 +8,16 @@ Stephane Dedieu  November 2022
 
 ### **Insights in Boston real estate - Statistical analysis.**
 
-Home prices v. various features: 
 
 Descriptive Statistics - Statistical Analysis - Tests. <br>
-Levene Test (Variances), T-Test, ANOVA test, Pearson correlation test. <br>
+Levene Test (Variances), T-test, ANOVA, Pearson Correlation, Regression analysis. <br>
+
+Home prices v. various features dataset: 
+
+
+
+
+
 
 Note: Boston home price dataset is pretty old. 1970s. 
 
