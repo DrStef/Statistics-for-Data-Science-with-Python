@@ -8,11 +8,65 @@ Stephane Dedieu  November 2022
 
 ### **Insights in Boston real estate - Statistical analysis.**
 
-
+Home prices v. various features. <br>
 Descriptive Statistics - Statistical Analysis - Tests. <br>
 Levene Test (Variances), T-test, ANOVA, Pearson Correlation, Regression analysis. <br>
 
-Home prices v. various features dataset: 
+The following describes the dataset variables:  <br>
+
+$$
+\begin{array}{|c|c|}
+\hline
+   \textbf{Code} & \textbf{Features}  \\ 
+\hline
+   \text{CRIM} & \text{per capita crime rate by town}  \\
+\hline
+   \text{ZN} & \text{proportion of residential land zoned for lots over 25,000 sq.ft}  \\
+\hline
+   \text{INDUS} & \text{proportion of non-retail business acres per town.}  \\
+\hline
+   \text{CHAS} & \text{Charles River dummy variable (1 if tract bounds river; 0 otherwise)}  \\
+\hline
+   \text{NOX} & \text{nitric oxides concentration (parts per 10 million)}  \\
+   
+   
+   
+   
+\end{array}
+$$
+
+
+
+
+
+   *      RM - average number of rooms per dwelling
+   *      AGE - proportion of owner-occupied units built prior to 1940
+   *      DIS - weighted distances to five Boston employment centres
+   *      RAD - index of accessibility to radial highways
+   *      TAX - full-value property-tax rate per \$10,000
+   *      PTRATIO - pupil-teacher ratio by town
+   *      LSTAT - % lower status of the population
+   *      MEDV - Median value of owner-occupied homes in $1000's
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
