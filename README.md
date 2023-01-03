@@ -17,66 +17,50 @@ The following describes the dataset variables:  <br>
 $$
 \begin{array}{|c|c|}
 \hline
-   \textbf{Code} & \textbf{Features}  \\ 
+\textbf{Code} & \textbf{Features}  \\ 
 \hline
-   \text{CRIM} & \text{per capita crime rate by town}  \\
+\text{CRIM} & \text{per capita crime rate by town}  \\
 \hline
-   \text{ZN} & \text{proportion of residential land zoned for lots over 25,000 sq.ft}  \\
+\text{ZN} & \text{proportion of residential land zoned for lots over 25,000 sq.ft}  \\
 \hline
-   \text{INDUS} & \text{proportion of non-retail business acres per town.}  \\
+\text{INDUS} & \text{proportion of non-retail business acres per town.}  \\
 \hline
-   \text{CHAS} & \text{Charles River dummy variable (1 if tract bounds river; 0 otherwise)}  \\
+\text{CHAS} & \text{Charles River dummy variable (1 if tract bounds river; 0 otherwise)}  \\
 \hline
-   \text{NOX} & \text{nitric oxides concentration (parts per 10 million)}  \\
-   
-   
-   
-   
+\text{NOX} & \text{nitric oxides concentration (parts per 10 million)}  \\
+\hline
+\text{RM} & \text{average number of rooms per dwelling}  \\   
+\hline
+\text{AGE} & \text{proportion of owner-occupied units built prior to 1940}  \\   
+\hline
+\text{DIS} & \text{weighted distances to five Boston employment centres}  \\  
+\hline
+\text{RAD} & \text{index of accessibility to radial highways}  \\  
+\hline
+\text{TAX} & \text{full-value property-tax rate per \\$10,000}  \\ 
+\hline
+\text{PTRATIO} & \text{pupil-teacher ratio by town}  \\
+\hline
+\text{LSTAT} & \text{\\% lower status of the population}  \\
+\hline
 \end{array}
 $$
 
 
+\text{TAX} & \text{full-value property-tax rate per \\$10,000}  \\ 
+\text{PTRATIO} & \text{pupil-teacher ratio by town}  \\ 
+\text{LSTAT} & \text{\\% lower status of the population}  \\ 
+\hline
+\text{MEDV} & \text{Median value of owner-occupied homes in $1000's}  \\    
+\hline  
+\end{array}
+$$
 
+<br>
+**Note:** Boston home price dataset is pretty old. 1970s. 
 
-
-   *      RM - average number of rooms per dwelling
-   *      AGE - proportion of owner-occupied units built prior to 1940
-   *      DIS - weighted distances to five Boston employment centres
-   *      RAD - index of accessibility to radial highways
-   *      TAX - full-value property-tax rate per \$10,000
-   *      PTRATIO - pupil-teacher ratio by town
-   *      LSTAT - % lower status of the population
-   *      MEDV - Median value of owner-occupied homes in $1000's
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Note: Boston home price dataset is pretty old. 1970s. 
-
- <br>
- <br>
+<br>
+<br>
 
 [Statistics for Data Science with Python - Notebook](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04.ipynb)
 
