@@ -43,6 +43,8 @@ $$
 \hline
 \text{LSTAT} & \text{\\% lower status of the population}  \\
 \hline
+\text{MEDV} & \text{Median value of owner-occupied homes in $1000's}  \\    
+\hline 
 \end{array}
 $$
 
