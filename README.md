@@ -43,23 +43,13 @@ $$
 \hline
 \text{LSTAT} & \text{\\% lower status of the population}  \\
 \hline
-\text{MEDV} & \text{Median value of owner-occupied homes in $1000's}  \\    
+\text{MEDV} & \text{Median value of owner-occupied homes in \\$1000's}  \\    
 \hline 
 \end{array}
 $$
 
-
-\text{TAX} & \text{full-value property-tax rate per \\$10,000}  \\ 
-\text{PTRATIO} & \text{pupil-teacher ratio by town}  \\ 
-\text{LSTAT} & \text{\\% lower status of the population}  \\ 
-\hline
-\text{MEDV} & \text{Median value of owner-occupied homes in $1000's}  \\    
-\hline  
-\end{array}
-$$
-
 <br>
-**Note:** Boston home price dataset is pretty old. 1970s. 
+<b>Note:</b> Boston home price dataset is pretty old. 1970s. 
 
 <br>
 <br>
