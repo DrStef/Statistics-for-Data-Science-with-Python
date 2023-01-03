@@ -8,12 +8,13 @@ Stephane Dedieu  November 2022
 
 ### **Insights in Boston real estate - Statistical analysis.**
 
-Note: Boston home price dataset is pretty old. 1970s. 
+
 Descriptive Statistics - Statistical Analysis - Tests. <br>
-Levene Test (Variances), T-Test, ANOVA test, Pearson correlation test. 
+Levene Test (Variances), T-Test, ANOVA test, Pearson correlation test. <br>
+Note: Boston home price dataset is pretty old. 1970s. 
 
-
-
+ <br>
+ <br>
 
 [Statistics for Data Science with Python - Notebook](https://github.com/DrStef/Statistics-for-Data-Science-with-Python/blob/main/Statistics_for_Data_Science_with_Python_Final_Project_SD_v04.ipynb)
 
